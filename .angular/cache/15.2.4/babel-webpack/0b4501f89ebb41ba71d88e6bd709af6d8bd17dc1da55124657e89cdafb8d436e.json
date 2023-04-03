@@ -1,0 +1,1 @@
+{"ast":null,"code":"export * from './lottieAnimationView.module';","map":{"version":3,"names":[],"sources":["/home/brand/WebstormProjects/angular-drag-drop-fileupload/node_modules/ng-lottie/dist/esm/src/index.js"],"sourcesContent":["export * from './lottieAnimationView.module';\n"],"mappings":"AAAA,cAAc,8BAA8B"},"metadata":{},"sourceType":"module","externalDependencies":[]}
