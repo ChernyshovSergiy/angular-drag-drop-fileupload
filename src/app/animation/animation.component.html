@@ -1,0 +1,9 @@
+<div class="lottie-animation">
+    <ng-lottie [options]="options"
+               [styles]="styles"
+               (animationCreated)="animationCreated($event)"
+               (loopComplete)="onLoopComplete()"
+    >
+    </ng-lottie>
+  <div class="btn" (click)="updateAnimation()">Update animation</div>
+</div>
